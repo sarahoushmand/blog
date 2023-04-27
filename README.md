@@ -12,7 +12,7 @@ A REST API for blog built using Django Rest Framework
 ### Quickstart
 - Clone the repo.  
     ```bash
-    git clone https://github.com/sarahoushmand/blog-api.git
+    git clone https://github.com/sarahoushmand/blog.git
     ```
 
 - Inside the backend folder, make a virtual environment and activate it 
